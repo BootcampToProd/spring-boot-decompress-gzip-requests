@@ -1,4 +1,4 @@
-package com.bootcamptoprod.config;
+package com.bootcamptoprod.filter;
 
 import jakarta.servlet.ServletInputStream;
 import jakarta.servlet.http.HttpServletRequest;

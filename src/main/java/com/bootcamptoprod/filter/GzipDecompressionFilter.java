@@ -1,4 +1,4 @@
-package com.bootcamptoprod.config;
+package com.bootcamptoprod.filter;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
